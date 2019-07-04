@@ -1,0 +1,122 @@
+body {
+   font-family: 'Roboto Slab', serif;
+}
+.navbar-custom {
+    background-color: rgba(0,0,0,0.5);
+    color: #fff;
+    border-radius: 0px;
+    padding: 10px;
+}
+.navbar-custom .navbar-nav>li>a {
+    color: #fff;
+    font-size: 19px;
+    margin-left: 13px;
+}
+.navbar-custom .navbar-nav>.active>a {
+    color: #fff;
+    background-color: #28c434;
+}
+.navbar-custom .navbar-nav>li>a:hover {
+    background: #28c434;
+}
+.navbar-custom .navbar-brand {
+    color: #fff;
+    margin-left: 15px;
+    font-size: 27px;
+}
+.navbar-custom .navbar-brand:hover {
+    color: #fff;
+    font-size: 27px;
+}
+.slider {
+    width: 100%;
+    margin;0px;
+    padding: 0px;
+    
+}
+.carousel-caption {
+    color: #fff;
+    position: absolute;
+    top: 35%;
+    left: -20%;
+}
+b {
+    font-size: 40px;
+    border-bottom-color: #82c434;
+    border-bottom-style: ridge;
+    font-weight: bold;
+}
+#introduction {
+    font-size: 45px;
+    border-bottom-color: #82c434;
+    border-bottom-style: ridge;
+    font-weight: bold;
+    
+}
+#footer {
+    width: 100%;
+    height: 205px;
+    background-color: #282e3e;
+    position: relative;
+    top: -20px;
+}
+.icon i {
+    font-size: 15px;
+    height: 30px;
+    width: 30px;
+    background-color: #98e698;
+    padding: 8px;
+    border-radius: 50%;
+}
+.icon i:hover {
+    background-color: #46d246;
+}
+#about {
+    width: 100%;
+    min-height: 600px;
+    background-color: #282e3e;
+    margin-top: -25px;
+    color: #ffff;
+    font-size: 15px;
+}
+b {
+    font-size: 40px;
+    border-bottom-color: #82c434;
+    border-bottom-style: ridge;
+    font-weight: bold;
+}
+#services {
+    font-size: 45px;
+    border-bottom-color: #82c434;
+    border-bottom-style: ridge;
+    font-weight: bold;
+    
+}
+.col1 {
+    border-style: solid;
+    border-color: #999999;
+    border-width: 1px;
+    min-height: 250px
+}
+.icons {
+    width: 130px;
+    font-size: 60px;
+    background-color: #d9d9d9;
+    padding: 5px 10px;
+    height: 110px;
+    margin-top : -50px;
+    color: #82c434; 
+}
+.btn-primary {
+    background-color: #82c434;
+    border-radius: 0px;
+    border-color: #82c434;
+}
+#aboutcompany {
+    font-size: 45px;
+    border-bottom-style: ridge;
+    border-bottom-color: #98e698;
+    position: relative;
+    top: 15px;
+    color: #fff;
+}
